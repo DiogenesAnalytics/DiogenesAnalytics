@@ -1,8 +1,8 @@
-<h1>"Problems well-defined are problems solved."</h1>
-<p>~ Raymond Hettinger, PyCon 2019<p>
+# "Problems well-defined are problems solved."
 
-+ Check out our [blog](https://diogenesanalytics.com/blog.html) here to learn more about our *research interests*.
 + [About](https://diogenesanalytics.com/about.html) us.
++ Origins of our [motto](https://youtu.be/_GP9OpZPUYc)
++ Check out our [blog](https://diogenesanalytics.com/blog.html) to learn more about our *research interests*.
 
 <!---
 DiogenesAnalytics/DiogenesAnalytics is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
