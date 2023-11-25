@@ -1,6 +1,5 @@
 <a href='https://en.wikipedia.org/wiki/Gordian_Knot#'>
   <img alt='Alexander the Great cuts the Gordian Knot' src='https://github.com/DiogenesAnalytics/DiogenesAnalytics/assets/118541082/e0e52e38-07ea-4451-9f0f-c2f2c0f2d670'>
-
 </a>
 <h1>
   Problems well-defined are problems solved.
