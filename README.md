@@ -1,11 +1,8 @@
-<img align='right' src='https://user-images.githubusercontent.com/118541082/210111399-71790dba-0e1c-498b-8320-a670a6d89840.jpg' width='300'>
-
+<a href='https://en.wikipedia.org/wiki/Gordian_Knot#'>
+  <img alt='Alexander the Great cuts the Gordian Knot' src='https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Alexander_cuts_the_Gordian_Knot.jpg/983px-Alexander_cuts_the_Gordian_Knot.jpg'>
+</a>
 <h1>
-  Problems <br>
-  well-defined <br>
-  are <br>
-  problems <br> 
-  solved.
+  Problems well-defined are problems solved.
 </h1>
 
 + [About](https://diogenesanalytics.com/about.html) us :game_die:
