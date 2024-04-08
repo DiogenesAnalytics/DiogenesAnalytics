@@ -5,9 +5,8 @@
   Problems well-defined are problems solved.
 </h1>
 
-+ [About](https://diogenesanalytics.com/pages/about.html) us :game_die:
-+ Origins of our [motto](https://youtu.be/_GP9OpZPUYc) :game_die:
-+ Check out our [blog](https://diogenesanalytics.com/pages/blog.html) to learn more about our *research interests* :game_die:
+The standard that our analytic work aspires to achieve, can best be illustrated through our namesake: `Diogenes`. A famous (or _infamous_) Greek philospher,
+[Diogenes the Cynic](https://en.wikipedia.org/wiki/Diogenes) is the paragon of the two virtues that best represent our standard: **minimalism**, and **logical rigor**:game_die:
 
 <!---
 DiogenesAnalytics/DiogenesAnalytics is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
